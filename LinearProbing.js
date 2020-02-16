@@ -59,3 +59,4 @@ function get(str){
 
 put("Neelansh", "Dogs make the world better")
 put("Gin", "Aviation Gin can take you places (literally) - Ryan Reynolds 2030")
+console.log(myarr)
