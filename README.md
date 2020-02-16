@@ -1,4 +1,4 @@
-# Javascript-Hashing-Algorithm---Linear-Probing
+# Javascript Hashing Algorithm - Linear Probing
 A simple Hashing algorithm in Javascript, which uses Linear Probing to resolve collisions.
 
 To use the functions, open the JS in a terminal, either by HTML or with Repl.it.
